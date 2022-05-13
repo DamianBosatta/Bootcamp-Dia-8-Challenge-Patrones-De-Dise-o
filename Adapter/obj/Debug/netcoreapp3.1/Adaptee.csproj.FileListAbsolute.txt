@@ -1,0 +1,12 @@
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.exe
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.deps.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.runtimeconfig.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\bin\Debug\netcoreapp3.1\Adaptee.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 8 Patron de Diseño\ConsoleApp1\obj\Debug\netcoreapp3.1\Adaptee.genruntimeconfig.cache
